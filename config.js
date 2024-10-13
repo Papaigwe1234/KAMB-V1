@@ -6,20 +6,20 @@ global.audio = "";
 global.video = "";
 global.port = process.env.PORT;
 global.appUrl = process.env.APP_URL || "";
-global.email = "Kermd237@gmail.com";
-global.location = "Douala, Cameroun";
+global.email = "dj2843043@gmail.com";
+global.location = "Libreville, Gabon";
 global.mongodb = process.env.MONGODB_URL || "mongodb+srv://Rayan:<Emmanuel237>@cluster0.8twd0.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
 global.allowJids = process.env.ALLOW_JID || "null";
 global.blockJids = process.env.BLOCK_JID || "null";
 global.DATABASE_URL = process.env.DATABASE_URL || "";
-global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Douala";
-global.github = process.env.GITHUB || "https://github.com/Kgtech-cmr/KERM_MD-V2";
-global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029Vafn6hc7DAX3fzsKtn45";
-global.website = process.env.GURL || "https://whatsapp.com/channel/0029Vafn6hc7DAX3fzsKtn45";
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/40ffc2a288542560c887c.jpg";
-global.devs = "https://wa.me/237650564445 , https://wa.me/237656520674";
-global.sudo = process.env.SUDO || "237650564445";
-global.owner = process.env.OWNER_NUMBER || "237656520674";
+global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Libreville";
+global.github = process.env.GITHUB || "https://github.com/papaigwe1234/KAMB-V1";
+global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VaomOwSFsn0XoleOJ41u";
+global.website = process.env.GURL || "https://whatsapp.com/channel/0029VaomOwSFsn0XoleOJ41u";
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://i.imgur.com/FpLGrxr.jpeg";
+global.devs = "https://wa.me/24160338758 , https://wa.me/24160338758";
+global.sudo = process.env.SUDO || "24160338758";
+global.owner = process.env.OWNER_NUMBER || "24160338758";
 global.style = process.env.STYLE || "3";
 global.gdbye = process.env.GOODBYE || "false";
 global.wlcm = process.env.WELCOME || "false";
@@ -48,11 +48,11 @@ module.exports = {
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "`BRAND PRODUCT OF ☞⌜ KG TECH⌝☜`",
-  author: process.env.PACK_AUTHER || "KG TECH",
-  packname: process.env.PACK_NAME || "Kerm-MD-V2",
-  botname: process.env.BOT_NAME || "ᵏᵍ┘𝙺𝙴𝚁𝙼_𝙼𝙳_𝚅𝟸𖤐",
-  ownername: process.env.OWNER_NAME || "☞⌜ KG TECH⌝☜",
+  caption: process.env.CAPTION || "`BRAND PRODUCT OF ☞⌜ IGWE TECH⌝☜`",
+  author: process.env.PACK_AUTHER || "IGWE TECH",
+  packname: process.env.PACK_NAME || "KAMB-V1",
+  botname: process.env.BOT_NAME || "𝙺A𝙼B_𝚅1𖤐",
+  ownername: process.env.OWNER_NAME || "☞⌜ IGWE TECH⌝☜",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "tCxobE1FqJgfbDZgsYQNHBFB",
@@ -64,7 +64,7 @@ module.exports = {
   aitts_Voice_Id: process.env.AITTS_ID || "37",
   ELEVENLAB_API_KEY: process.env.ELEVENLAB_API_KEY || "...d336",
   WORKTYPE: process.env.WORKTYPE || process.env.MODE || "private",
-  LANG: (process.env.THEME || "KERM").toUpperCase(),
+  LANG: (process.env.THEME || "KAMB").toUpperCase(),
 };
 global.rank = "updated";
 global.isMongodb = false;
